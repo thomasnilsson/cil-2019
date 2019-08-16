@@ -1,0 +1,1 @@
+pandoc exam.md --pdf-engine=xelatex -o exam.pdf
