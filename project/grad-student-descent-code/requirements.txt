@@ -7,6 +7,6 @@ Keras==2.2.4
 pandas==0.24.2
 keras_self_attention==0.41.0
 h5py==2.9.0
-numpy==1.16.2
+numpy==1.22.0
 nltk==3.4.1
 scikit_learn==0.21.2
